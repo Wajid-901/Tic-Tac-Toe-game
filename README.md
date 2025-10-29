@@ -9,7 +9,7 @@ Play against a friend or challenge an unbeatable AI opponent powered by the Mini
 
 - 🎯 Dual Mode — Play Player vs Player (PvP) or Player vs Computer (PvAI).  
 - 🧠 Unbeatable AI — The AI uses the Minimax algorithm to guarantee optimal moves.  
-- 💎 Modern UI** — Clean, minimalist, and fully responsive card-based layout.  
+- 💎 Modern UI — Clean, minimalist, and fully responsive card-based layout.  
 - 🧩 Score Tracking — Persistent counters for X Wins, O Wins, and Draws.  
 - 🔄 Symbol Selection — Choose between X or O when playing against AI.
 
